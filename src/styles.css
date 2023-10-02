@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html, body {
+
+    #logo7{
+        color:white;
+        padding-left: 100;
+    }
+    .auu{
+        color: white;
+        background-color: black;
+    }
+    
+    height: 100%; }
+body { 
+    
+   
+    
+    margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
